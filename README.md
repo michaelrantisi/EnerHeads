@@ -184,4 +184,3 @@ Optimize the schedule of a battery energy storage system (BESS) to maximize prof
 ## Conclusion
 The project successfully addresses the Enerheads Quantitative Challenge by integrating predictive modeling for energy imbalances with an optimization framework for BESS operation. The forecasting models provide insights into imbalance dynamics, while the optimization model identifies profitable strategies under realistic market constraints. The low cycle depth on certain days may reflect either conservative operation or favorable market conditions, offering additional insights for battery health management.
 
-Feel free to explore the code further, adjust parameters, and test on different time horizons to refine the solution.
